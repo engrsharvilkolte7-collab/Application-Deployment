@@ -1,0 +1,10 @@
+{
+  "name": "application-deployment",
+  "version": "1.0.0",
+  "description": "GitHub Actions Practical",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "build": "echo Build completed successfully"
+  }
+}
